@@ -1,0 +1,32 @@
+header {
+  display: grid;
+  width: max-content;
+  text-align: center;
+  position: relative;
+  left: 5rem;
+  
+}
+body {
+  width: 300px;
+  height: 200px;
+  box-shadow: 2px 1px 4px 2px;
+  position: relative;
+  left: 5rem;
+  border-radius: 5%;
+  background-color: rgb(240, 230, 230);
+  padding: 4rem;
+}
+p {
+  
+  position: relative;
+  top: 1rem;
+  left: 5rem;
+  color:royalblue;
+}
+
+
+
+a {
+  display: grid;
+  position: relative;
+}
